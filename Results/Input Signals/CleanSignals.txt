@@ -1,0 +1,5 @@
+
+ Signal: Voice3_best.wav
+ Power: 0.0027 Power dBW: -25.6438
+ Signal: Music1_bensound-happyrock.mp3
+ Power: 0.0868 Power dBW: -10.6165

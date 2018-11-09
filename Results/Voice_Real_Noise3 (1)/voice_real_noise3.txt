@@ -1,0 +1,21 @@
+Learning Rate for all tests 5.000000e-02
+For SNR 10
+learning rate has to be smaller than: 7335.1240
+SSE Time Domain:   5.9667
+SSE Frequency Domain: 1310514.1613
+For SNR 5
+learning rate has to be smaller than: 2319.5699
+SSE Time Domain:   9.0892
+SSE Frequency Domain: 1972235.7624
+For SNR 0
+learning rate has to be smaller than: 733.5124
+SSE Time Domain:  19.4308
+SSE Frequency Domain: 4142663.7333
+For SNR -5
+learning rate has to be smaller than: 231.9570
+SSE Time Domain:  61.6963
+SSE Frequency Domain: 12505218.6272
+For SNR -10
+learning rate has to be smaller than:  73.3512
+SSE Time Domain: 198.6193
+SSE Frequency Domain: 38895138.5167

@@ -1,0 +1,9 @@
+
+ Signal: Noise1_Dryer.wav
+ Power: 0.0267 Power dBW: -15.7384
+ Signal: Noise2_Tap_Water.wav
+ Power: 0.0179 Power dBW: -17.4820
+ Signal: Noise3_TV_1.wav
+ Power: 0.0002 Power dBW: -37.9359
+ Signal: Noise4_TV_2.wav
+ Power: 0.0002 Power dBW: -37.1343
